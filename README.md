@@ -10,7 +10,7 @@ Modify gen_config.py to select a different split_id for different datasets and c
 $ python gen_feature.py
 ```
 
-We also provide model weights for ST-GCN corresponding to the split_id in SMIE.
+We also provide model weights for ST-GCN corresponding to the split_id in SMIE:
 [Model Weights](https://pan.baidu.com/s/1VQGM9g2gixdBIhQwQ4MU8A)
 
 code:smie
